@@ -1,0 +1,79 @@
+body {
+	background-color: #f6ede4;
+	overflow-y: hidden;
+}
+
+.vak1 {
+	position: absolute;
+	background-image: url(media/Zwitserland/swiss.png);
+	border: none;
+	color: white;
+	padding: 9px 20px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	margin-top: 620px;
+	cursor: pointer;
+	margin-left: 620px;
+}
+
+.vak2 {
+	position: absolute;
+	background-image: url(media/Greece/greece.png);
+	border: none;
+	color: white;
+	padding: 9px 20px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	margin-top: 620px;
+	cursor: pointer;
+	margin-left: 1190px;
+}
+
+.vak3 {
+	position: absolute;
+	background-image: url(media/Italie/Italy.png);
+	border: none;
+	color: white;
+	padding: 9px 20px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	margin-top: 620px;
+	cursor: pointer;
+	margin-left: 2000px;
+}
+
+.vak4 {
+	position: absolute;
+	background-image: url(media/Portugal/Portugal.png);
+	border: none;
+	color: white;
+	padding: 9px 20px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	margin-top: 620px;
+	cursor: pointer;
+	margin-left: 2950px;
+}
+
+.vak5 {
+	position: absolute;
+	background-image: url(media/Noorwegen/Norway.png);
+	border: none;
+	color: white;
+	padding: 9px 20px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	margin-top: 620px;
+	cursor: pointer;
+	margin-left: 3720px;
+}
